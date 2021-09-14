@@ -1,0 +1,7 @@
+C:\Users\victor-fertine\Desktop\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\victor-fertine\Desktop\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor-fertine\Desktop\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\victor-fertine\Desktop\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\victor-fertine\Desktop\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\victor-fertine\Desktop\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\victor-fertine\Desktop\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
